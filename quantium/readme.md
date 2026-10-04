@@ -27,10 +27,10 @@ A virtual job simulation focused on **data analytics and commercial insights** f
 
 | Deliverable | Link |
 |---|---|
-| Data cleaning and analysis notebook | [Jupyter Notebook](./Data_Cleaning_and_Analysis.ipynb) |
+| Data cleaning and analysis notebook | [Jupyter-Notebook](./Data%20Cleaning%20&%20Analysis.ipynb) |
 | QVI Sales Analytics report | [Report](./QVI_Sales_Analytics_Report.pdf) |
-| Tableau dashboard and story | [PDF](./Quantium_Tableau_Dashboard_and_Story.pdf) |
-| Tableau workbook | [Workbook](./Quantium_Tableau_Workbook.twb) |
+| Tableau dashboard and story | [PDF](./Quantum_Tableau_Dashboard_and_Story.pdf) |
+| Tableau workbook | [Workbook](./Quantum_Tableau_Workbook.twb) |
 | Live dashboard | [Tableau Public](https://public.tableau.com/app/profile/himanshu.pathak3605/viz/CustomerSegmentationSalesInsights-QVI/CustomerSegmentationSalesInsights) |
 
 ## 🎓 Skills Gained
